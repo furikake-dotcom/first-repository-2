@@ -94,6 +94,7 @@ public final class Plugin_sample extends JavaPlugin implements Listener {
 
   int count = 1;
   //day21_プルリクテスト用のコメントです。
+  //day21_プルリクテスト用のコメント2です。
 
   //屈伸するたびにここに1が足される
   @EventHandler
